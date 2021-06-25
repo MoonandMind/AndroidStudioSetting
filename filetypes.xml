@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="glsl" approved="true" type="GLSL shader file" />
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".analysis_options" type="PLAIN_TEXT" />
       <mapping ext="glsl" type="PLAIN_TEXT" />
       <mapping ext="preferences_pb" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <removed_mapping ext="glsl" approved="true" type="GLSL shader file" />
     </extensionMap>
   </component>
