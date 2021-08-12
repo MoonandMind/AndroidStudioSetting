@@ -306,9 +306,13 @@
           <option name="url" value="https://github.com/WaLWithCode/OFmom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hufeiyang/NestedScrollingParent2Layout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\HanmiProjectSpace" />
+    <option name="cloneParentDir" value="D:\androidStudioSpace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
