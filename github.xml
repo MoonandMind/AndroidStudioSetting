@@ -1,9 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account id="1f184bbb-3f68-4bc7-ae0c-9043d70f0832" name="WaLWithCode">
-      <server host="github.com" />
-    </account>
-    <account id="ac05ebbe-e2ae-439d-ac68-580c42214dc0" name="MoonandMind">
+    <account id="8283fd58-13ba-4229-a352-64db0c8497d7" name="WaLWithCode">
       <server host="github.com" />
     </account>
   </component>
