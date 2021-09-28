@@ -334,6 +334,14 @@
           <option name="url" value="https://github.com/solartcc/NestedCeilingEffect.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@codechina.csdn.net:qq_40881680/android-viewpager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codechina.csdn.net/qq_40881680/android-viewpager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\androidStudioSpace" />
